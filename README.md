@@ -51,7 +51,6 @@
 [![Email](https://img.shields.io/badge/Email-theakhilsarkar@gmail.com-red?style=square&logo=gmail&logoColor=white)](mailto:theakhilsarkar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-theakhilsarkar-blue?style=square&logo=linkedin&logoColor=white)](https://linkedin.com/in/theakhilsarkar)
 
-
 ---
 
 ### ✍️ Dev Quote
