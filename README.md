@@ -68,5 +68,15 @@
 
 ---
 
+<!-- Alternate Graph without Date Range -->
+<h2 align="left">🚀 My GitHub Journey</h2>
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=theakhilsarkar&theme=react-dark&area=true&hide_border=true" 
+    alt="GitHub Activity Graph" 
+    style="border-radius: 15px; box-shadow: 0 0 20px rgba(0, 255, 255, 0.3);" 
+  />
+</p>
+
 🔗 *For more, explore my work at [github.com/theakhilsarkar](https://github.com/theakhilsarkar)*
 
