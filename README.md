@@ -3,6 +3,7 @@
 
 ---
 
+
 ### 💡 About Me:
 - 🔭 I develop full-stack **web** applications (MERN) & **mobile** apps (Flutter)
 - 👨‍🏫 I train students and professionals in Web/App Development & Programming
